@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ekarerina\documents\visual studio 2015\projects\метод данилевского\метод данилевского\source.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ekarerina\documents\visual studio 2015\projects\метод данилевского\метод данилевского\source.cpp(68): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ekarerina\documents\visual studio 2015\projects\метод данилевского\метод данилевского\source.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Метод Данилевского.vcxproj -> c:\users\ekarerina\documents\visual studio 2015\Projects\Метод Данилевского\Debug\Метод Данилевского.exe
+  Метод Данилевского.vcxproj -> c:\users\ekarerina\documents\visual studio 2015\Projects\Метод Данилевского\Debug\Метод Данилевского.pdb (Full PDB)
